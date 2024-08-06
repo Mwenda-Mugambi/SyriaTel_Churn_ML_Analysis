@@ -2,7 +2,7 @@
 ![ReadMe Banner-01](https://github.com/Mwenda-Mugambi/SyriaTel_Churn_ML_Analysis/assets/132069152/7304201b-5c24-4c23-92be-e22c78f68441)
 
 ## Overview
-In this project, I aimed to predict customer churn for SyriaTel, a telecommunications company. By leveraging data, my goal was to gain insights into why customers might be leaving and to develop recommendations to help retain them.
+In this project, I aimed to predict customer churn for SyriaTel, a telecommunications company. By leveraging data, my goal was to gain insights into why customers might be leaving and to develop recommendations to help retain them
 
 ## Business and Data Understanding
 **Stakeholder Audience:** My primary stakeholders are the Marketing and Retention Department of SyriaTel. The insights and predictions from this project will help them make informed decisions about customer retention strategies, marketing campaigns, and service improvements.
